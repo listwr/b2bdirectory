@@ -1,9 +1,9 @@
-# b2bdirectory
+# Business Directory
 Open Global B2B Business Directory – listwr.com
 
 # 🌍 B2B Business Directory – listwr.com
 
-This repository is part of the open ecosystem created by [listwr.com](https://listwr.com), a global B2B directory helping users find and connect with businesses, services, professionals, startups, and agencies.
+This repository is part of the open ecosystem, a global B2B directory helping users find and connect with businesses, services, professionals, startups, and agencies.
 
 ## 🔗 Visit Live Directory  
 👉 [https://listwr.com](https://listwr.com)
