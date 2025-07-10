@@ -6,7 +6,7 @@ Open Global B2B Business Directory – listwr.com
 This repository is part of the open ecosystem, a global B2B directory helping users find and connect with businesses, services, professionals, startups, and agencies.
 
 ## 🔗 Visit Live Directory  
-👉 [https://listwr.com](https://listwr.com)
+👉 listwr.com
 
 ## 🚀 About listwr.com
 
@@ -37,10 +37,5 @@ Whether you are a local shop or a global exporter, listwr.com helps you:
 Free Business Listing: https://listwr.com/free-listing
 
 ---
-
-> 🔗 **Official Website:** [https://listwr.com](https://listwr.com)  
-Quora Space: https://listwr.quora.com/
-About Me: https://about.me/listwr
-Fcebook: https://www.facebook.com/listwrcom/
 > 
 
